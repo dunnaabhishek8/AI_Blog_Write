@@ -1,0 +1,5 @@
+.env
+myvenv/
+__pycache__/
+images/
+*.md

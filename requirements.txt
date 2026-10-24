@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+langgraph
+langchain-groq
+langchain-community
+psycopg2-binary
+tavily-python
+requests
